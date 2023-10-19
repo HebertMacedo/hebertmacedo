@@ -1,7 +1,6 @@
-Hi 👋, I'm Hebert Macedo
-
-![snake animation](https://github.com/HebertMacedo/hebertmacedo/blob/output/github-contribution-grid-snake2.svg)
-
+<div align="center">
+  <h2 style="font-size: 24px; font-weight: bold;">Hi 👋, I'm Hebert Macedo</h2>
+</div>
 
 
 <div>
