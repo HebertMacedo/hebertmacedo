@@ -4,7 +4,7 @@
 <br><br><br>
 
 <div>
-  <h2 style="font-size: 24px; font-weight: bold;">:man_technologist: Hebert - Programador Júnior (Back-end) :man_technologist:</h2>
+  <h2 style="font-size: 24px; font-weight: bold;">Programador Júnior (Back-end)</h2>
   <p style="font-size: 18px;">
     :rocket: Atualmente estou trabalhando com tecnologias back-end, incluindo Node.js, TypeScript e bancos de dados.
   </p>
