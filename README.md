@@ -1,54 +1,54 @@
 <div align="center">
-  <h2 style="font-size: 24px; font-weight: bold;">Hi 👋, I'm Hebert Macedo</h2>
+  <h2 style="font-size: 28px; font-weight: bold;">Olá 👋, Eu sou Hebert Macedo</h2>
 </div>
-<br><br><br>
-
-<div>
-  <h2 style="font-size: 24px; font-weight: bold;">Programador Júnior (Back-end)</h2>
-  <p style="font-size: 18px;">
-    :rocket: Atualmente estou trabalhando com tecnologias back-end, incluindo Node.js, TypeScript e bancos de dados.
-  </p>
-  <p style="font-size: 18px;">
-    :seedling: Estou sempre aprendendo e aprimorando minhas habilidades no desenvolvimento back-end.
-  </p>
-  <p style="font-size: 18px;">
-    :cloud: Tenho grande interesse no universo do desenvolvimento back-end.
-  </p>
-  <p style="font-size: 18px;">
-    :memo: Estou disponível para contatos e colaborações. Sinta-se à vontade para entrar em contato comigo: hebert.macedo2@gmail.com.
-  </p>
-</div>
-
-<br><br><br> <!-- Adicionando três linhas em branco entre as seções -->
-
 
 <div align="center">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebertMacedo&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HebertMacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <h2 style="font-size: 28px; font-weight: bold; color: #333;">Desenvolvedor Back-end Júnior</h2>
+  <div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; margin-bottom: 20px; max-width: 600px; margin: 0 auto;">
+    <p style="font-size: 18px; margin-bottom: 20px;">
+      🚀 Atualmente, estou focado no desenvolvimento back-end, utilizando tecnologias como Java, Node.js e bancos de dados SQL e NoSQL (MySQL, MongoDB).
+    </p>
+    <p style="font-size: 18px; margin-bottom: 20px;">
+      🌱 Estou sempre buscando aprender e me aprimorar, acompanhando as últimas tendências e práticas recomendadas no campo da programação.
+    </p>
+    <p style="font-size: 18px; margin-bottom: 20px;">
+      ☁️ Tenho uma paixão genuína pelo desenvolvimento back-end e estou motivado a enfrentar desafios complexos para criar soluções eficientes e escaláveis.
+    </p>
+    <p style="font-size: 18px; margin-bottom: 20px;">
+      🎓 Possuo formação em Análise e Desenvolvimento de Sistemas e acumulo experiência significativa na área de desenvolvimento de software.
+    </p>
+    <p style="font-size: 18px; margin-bottom: 0;">
+      📝 Estou aberto a oportunidades de colaboração e novos projetos. Fique à vontade para entrar em contato comigo através do e-mail: hebert.macedo2@gmail.com.
+    </p>
+  </div>
 </div>
 
-
-<br><br><br> <!-- Adicionando três linhas em branco entre as seções -->
+<div align="center">
+  <br><br><br>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebertMacedo&layout=compact&langs_count=7&theme=dracula"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HebertMacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div align="center">
-  <h2 style="font-size: 24px; font-weight: bold;">:man_technologist: Technologies That I Know :man_technologist:</h2>
-  <p align="center">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" />
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
+  <br><br><br>
+  <h2 style="font-size: 28px; font-weight: bold;">Tecnologias que eu Conheço</h2>
+  <p>
+    <img loading="lazy" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/>
+    <img loading="lazy" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
+    <img loading="lazy" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png"/>
+    <img loading="lazy" src="https://img.icons8.com/color/96/000000/sql.png"/>
+    <img loading="lazy" src="https://img.icons8.com/color/96/000000/mongodb.png"/>
+    <img loading="lazy" src="https://img.icons8.com/color/96/000000/git.png"/>
+    <img loading="lazy" src="https://img.icons8.com/fluency/96/000000/github.png"/>
+    <img loading="lazy" src="https://img.icons8.com/color/96/000000/kubernetes.png"/>
+    <img loading="lazy" src="https://img.icons8.com/color/96/000000/express.png"/>
+    <img loading="lazy" src="https://img.icons8.com/color/96/000000/nextjs.png"/>
   </p>
 </div>
 
-<br><br><br> <!-- Adicionando três linhas em branco entre as seções -->
-
 <div align="center">
-  <h2 style="font-size: 24px; font-weight: bold;">Connect With Me🤝</h2>
+  <br><br><br>
+  <h2 style="font-size: 28px; font-weight: bold;">Conecte-se Comigo🤝</h2>
 </div>
 
 <div align="center">
