@@ -1,12 +1,14 @@
-
 </br>
 </br>
 
-<div dsplay="inline-block">
- 
- <h1 align="left">Hebert Rodrigues</h1>
+<div style="text-align: center;">
+
+ <h1 style="font-size: 3em; color: #333366; border-bottom: 2px solid #333366; padding-bottom: 0.5em; display: inline-block; margin: 0 auto;">Hebert Rodrigues</h1>
+
+</div>
 
 </br>
+
 
 ## Hello, Devs!!
 
