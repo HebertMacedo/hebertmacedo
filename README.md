@@ -1,55 +1,55 @@
-<div align="center">
-  <h1 style="font-size: 36px; font-weight: bold; color: #333; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Olá 👋, Eu sou Hebert Macedo</h1>
-  <h2 style="font-size: 24px; font-weight: bold; color: #555; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Desenvolvedor Back-end Júnior</h2>
+
+</br>
+</br>
+
+<div dsplay="inline-block">
+ 
+ <h1 align="left">Hebert Rodrigues</h1>
+
+</br>
+
+## Hello, Devs!!
+
+Tenho 24 anos, moro em Carapicuíba/SP e sou apaixonado por programação e tecnologia! Sou aventureiro no universo da programação, criador oficial de bugs hahaha, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso!  ❤
+
+<p align="center">
+  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
+</p>
+
+### 🖥️ Tecnologias e Ferramentas: 
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" title = "NODE.JS"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" title = "JAVA"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" title = "NPM"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
+<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "GITHUB"/></code>
+
+
+</br>
+</br>
+<div display="inline-block">
+ <p align="left">📚 Tenho me dedicado aos estudos de Node.js e Java, e recentemente iniciei meu aprendizado voltado ao desenvolvimento de sistemas;</p>
+ <p align="left">🚀 Sou entusiasta de tecnologia, com especial interesse em inteligência artificial.</p>
+ <p align="left">💡 Meu objetivo é desenvolver soluções inovadoras que possam resolver problemas do mundo real e contribuir para avanços significativos na área de tecnologia.</p>
+ <p align="left">📚 Tenho participado de cursos online e workshops para me manter atualizado sobre as últimas tendências e práticas em tecnologia e desenvolvimento de software.</p>
 </div>
 
-<div align="center" style="margin-top: 30px;">
-  <div style="background-color: #f8f9fa; padding: 30px; border-radius: 15px; max-width: 800px; margin: 0 auto;">
-    <p style="font-size: 18px; line-height: 1.6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: left;">
-      🚀 Atualmente, estou focado no desenvolvimento back-end, utilizando tecnologias como Java, Node.js e bancos de dados SQL e NoSQL (MySQL, MongoDB).
-    </p>
-    <p style="font-size: 18px; line-height: 1.6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: left;">
-      🌱 Estou sempre buscando aprender e me aprimorar, acompanhando as últimas tendências e práticas recomendadas no campo da programação.
-    </p>
-    <p style="font-size: 18px; line-height: 1.6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: left;">
-      ☁️ Tenho uma paixão genuína pelo desenvolvimento back-end e estou motivado a enfrentar desafios complexos para criar soluções eficientes e escaláveis.
-    </p>
-    <p style="font-size: 18px; line-height: 1.6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: left;">
-      🎓 Possuo formação em Análise e Desenvolvimento de Sistemas e acumulo experiência significativa na área de desenvolvimento de software.
-    </p>
-    <p style="font-size: 18px; line-height: 1.6; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; text-align: left;">
-      📝 Estou aberto a oportunidades de colaboração e novos projetos. Fique à vontade para entrar em contato comigo através do e-mail: <a href="mailto:hebert.macedo2@gmail.com" style="color: #333; text-decoration: none;">hebert.macedo2@gmail.com</a>.
-    </p>
-  </div>
-</div>
 
-<div align="center" style="margin-top: 50px;">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HebertMacedo&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=HebertMacedo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
-<div align="center" style="margin-top: 50px;">
-  <h2 style="font-size: 28px; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Tecnologias que eu Conheço</h2>
-  <p>
-    <img loading="lazy" src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo--v1.png"/>
-    <img loading="lazy" src="https://img.icons8.com/color/96/000000/nodejs.png"/>
-    <img loading="lazy" src="https://img.icons8.com/fluency/96/000000/mysql-logo.png"/>
-    <img loading="lazy" src="https://img.icons8.com/color/96/000000/sql.png"/>
-    <img loading="lazy" src="https://img.icons8.com/color/96/000000/mongodb.png"/>
-    <img loading="lazy" src="https://img.icons8.com/color/96/000000/git.png"/>
-    <img loading="lazy" src="https://img.icons8.com/fluency/96/000000/github.png"/>
-    <img loading="lazy" src="https://img.icons8.com/color/96/000000/kubernetes.png"/>
-    <img loading="lazy" src="https://img.icons8.com/color/96/000000/express.png"/>
-    <img loading="lazy" src="https://img.icons8.com/color/96/000000/nextjs.png"/>
-  </p>
-</div>
+</br>
 
-<div align="center" style="margin-top: 50px;">
-  <h2 style="font-size: 28px; font-weight: bold; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;">Conecte-se Comigo 🤝</h2>
-  <a href="mailto:hebert.macedo2@gmail.com" style="margin-right: 20px;">
-    <img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/hebert-macedo/" target="_blank">
-    <img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-</div>
+
+
+</br>
+
+<a href="https://www.instagram.com/jeniblo_dev" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://www.linkedin.com/in/hebert-macedo" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+
+##
+<p align="center">
+<a href="https://github.com/HebertMacedo">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hebertmacedo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hebertmacedo&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
