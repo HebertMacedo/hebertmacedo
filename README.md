@@ -1,13 +1,6 @@
-</br>
-</br>
-
 <div align="center">
-
  <h1 style="font-size: 3em; color: #333366; border-bottom: 2px solid #333366; padding-bottom: 0.5em;">Hebert Rodrigues</h1>
-
 </div>
-
-</br>
 
 ## Olá, Devs!! 👋
 
@@ -18,15 +11,15 @@ Tenho 24 anos, moro em Carapicuíba/SP e sou apaixonado por programação e tecn
 </p>
 
 ### 🖥️ Tecnologias e Ferramentas
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/></code>
-
-</br>
+<p align="center">
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
+  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
+</p>
 
 ### Sobre mim
 
@@ -35,15 +28,10 @@ Tenho 24 anos, moro em Carapicuíba/SP e sou apaixonado por programação e tecn
 - 💡 Meu objetivo é desenvolver soluções inovadoras que possam resolver problemas do mundo real e contribuir para avanços significativos na área de tecnologia;
 - 📚 Tenho participado de cursos online e workshops para me manter atualizado sobre as últimas tendências e práticas em tecnologia e desenvolvimento de software.
 
-</br>
-
-<a href="https://www.instagram.com/jeniblo_dev" target="_blank"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
-<a href="https://www.linkedin.com/in/hebert-macedo" target="_blank"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
-
-</br>
-</br>
-
-##
+<p align="center">
+  <a href="https://www.instagram.com/jeniblo_dev" target="_blank"><img alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
+  <a href="https://www.linkedin.com/in/hebert-macedo" target="_blank"><img alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+</p>
 
 <p align="center">
 <a href="https://github.com/HebertMacedo">
