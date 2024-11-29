@@ -1,41 +1,28 @@
-<div align="center">
- <h1 style="font-size: 3em; color: #333366; border-bottom: 2px solid #333366; padding-bottom: 0.5em;">Hebert Rodrigues</h1>
-</div>
+# 👋 Olá, sou o Hebert Macedo!  
 
-## Olá, Devs!! 👋
+🎯 **Desenvolvedor Back-End Junior** com experiência em diversas tecnologias de desenvolvimento e um foco constante em aprimorar minhas habilidades em sistemas robustos e escaláveis.  
 
-Tenho 24 anos, moro em Carapicuíba/SP e sou apaixonado por programação e tecnologia! Sou aventureiro no universo da programação, criador oficial de bugs hahaha, e quanto mais eu aprendo e passo raiva, mais eu amo tudo isso! ❤
+## 💻 Tecnologias e Ferramentas
+- **Linguagens**: Java, Python, Node.js  
+- **Banco de Dados**: SQL Server, MySQL, PostgreSQL  
+- **Orquestração e Contêineres**: Kubernetes  
 
-<p align="center">
-  <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350" alt="Gato digitando">
-</p>
+## 📘 Formação Acadêmica
+- Graduado em **Análise e Desenvolvimento de Sistemas** (2022)  
 
-### 🖥️ Tecnologias e Ferramentas
-<p align="center">
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"/>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" alt="Java"/>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL"/>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" alt="NPM"/>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git"/>
-  <img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub"/>
-</p>
+## 🚀 Em Desenvolvimento
+- **Artigo Científico**: PostgreSQL aplicado ao back-end  
+- **Projetos Open Source** e colaborativos para consolidar habilidades  
 
-### Sobre mim
+## 🎯 Objetivo
+- Tornar-me referência no desenvolvimento back-end, focando em performance e qualidade de código  
 
-- 📚 Tenho me dedicado aos estudos de Node.js e Java, e recentemente iniciei meu aprendizado voltado ao desenvolvimento de sistemas;
-- 🚀 Sou entusiasta de tecnologia, com especial interesse em inteligência artificial;
-- 💡 Meu objetivo é desenvolver soluções inovadoras que possam resolver problemas do mundo real e contribuir para avanços significativos na área de tecnologia;
-- 📚 Tenho participado de cursos online e workshops para me manter atualizado sobre as últimas tendências e práticas em tecnologia e desenvolvimento de software.
+## 🌐 Conecte-se comigo
+- [LinkedIn](https://www.linkedin.com/in/hebertmacedo/)  
+- **Email**: hebert.macedo2@gmail.com  
 
-<p align="center">
-  <a href="https://www.instagram.com/jeniblo_dev" target="_blank"><img alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
-  <a href="https://www.linkedin.com/in/hebert-macedo" target="_blank"><img alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
-</p>
+✨ **Meu lema**: _"Aprendizado contínuo para criar soluções que fazem a diferença."_  
 
-<p align="center">
-<a href="https://github.com/HebertMacedo">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hebertmacedo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hebertmacedo&layout=compact&langs_count=8&theme=algolia" alt="Linguagens mais usadas"/>
-</a>
-</p>
+## 📊 Estatísticas do GitHub
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HebertMacedo&layout=compact&theme=radical)  
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HebertMacedo&show_icons=true&theme=radical)  
