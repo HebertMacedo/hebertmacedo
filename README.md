@@ -24,5 +24,6 @@
 ✨ **Meu lema**: _"Aprendizado contínuo para criar soluções que fazem a diferença."_  
 
 ## 📊 Estatísticas do GitHub
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HebertMacedo&layout=compact&theme=radical) 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HebertMacedo&show_icons=true&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=HebertMacedo&layout=compact&theme=radical) 
+![Estatísticas do GitHub](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=HebertMacedo&show_icons=true&theme=radical)
+
