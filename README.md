@@ -3,7 +3,7 @@
 🎯 **Desenvolvedor Back-End Junior** com experiência em diversas tecnologias de desenvolvimento e um foco constante em aprimorar minhas habilidades em sistemas robustos e escaláveis.  
 
 ## 💻 Tecnologias e Ferramentas
-- **Linguagens**: Java, Python, Node.js  
+- **Linguagens**: Java, Go, PHP  
 - **Banco de Dados**: SQL Server, MySQL, PostgreSQL  
 - **Orquestração e Contêineres**: Kubernetes  
 
@@ -24,5 +24,5 @@
 ✨ **Meu lema**: _"Aprendizado contínuo para criar soluções que fazem a diferença."_  
 
 ## 📊 Estatísticas do GitHub
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HebertMacedo&layout=compact&theme=radical)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=HebertMacedo&layout=compact&theme=radical) 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=HebertMacedo&show_icons=true&theme=radical)  
